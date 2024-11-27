@@ -11,7 +11,7 @@ delta=1238
 g=2.91238
 asd=312.123
 afgs=1209.6217
-dfgkl=74383.329
+dfgkl=74383.329342
 
 print("string=" ) 
 print(a,b,c,d)
@@ -45,7 +45,7 @@ print(dfgkl%alfa)
 print(gama%g)
 print(delta%afgs)
 print(delta**gama)
-print(alfa**asd)
-print(delta**alfa)
-print(afgs**dfgkl)
+print(alfa**g)
+print(delta**g)
+print(afgs**g)
 print(asd**gama)
